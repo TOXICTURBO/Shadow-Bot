@@ -3,7 +3,7 @@ const {MessageType} = require('@adiwajshing/baileys');
 
 Asena.addCommand({pattern: 'owner', fromMe: true, desc: 'get the number of creator', dontAddCommandList: true}, (async (message, match) => {
 const buff = await getBuffer(url)
-const url = 'https://telegra.ph/file/618aa23f2aa64b594e0a1.jpg'
+const url = 'https://i.imgur.com/NLanTBv.jpeg'
 const Dqz = 'BEGIN:VCARD\n' 
             + 'VERSION:3.0\n' 
             + 'FN:Toxic-Turbo\n'
