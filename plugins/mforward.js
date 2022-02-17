@@ -9,7 +9,7 @@
  const Config = require('../config');
 
           var mode = ''
-if (Config.BC == 'default') mode = 'ᴅᴇᴠᴇʟᴏᴘᴇʀ : Toxic-Shadow'
+if (Config.BC == 'default') mode = 'ᴅᴇᴠᴇʟᴏᴘᴇʀ : Toxic-Turbo'
 
 else mode = 'ғᴏʀᴡᴀʀᴅᴇᴅ ʙʏ ' + Config.BC
 
