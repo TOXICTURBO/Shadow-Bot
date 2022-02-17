@@ -17,13 +17,13 @@
 */
 
 function successfullMessage(msg) {
-    return "✅ *Shadow*:  ```" + msg + "```"
+    return "✅ *Toxic-Shadow*:  ```" + msg + "```"
 }
 function errorMessage(msg) {
-    return "🛑 *Shadow*:  ```" + msg + "```"
+    return "🛑 *Toxic-Shadow*:  ```" + msg + "```"
 }
 function infoMessage(msg) {
-    return "⏺️ *Shadow*:  ```" + msg + "```"
+    return "⏺️ *Toxic-Shadow*:  ```" + msg + "```"
 }
 
 
